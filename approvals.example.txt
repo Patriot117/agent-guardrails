@@ -1,0 +1,5 @@
+# Written by a human. The agent can read this file, never write it.
+# Copy to approvals.txt (gitignored). Each line approves sends to that address
+# until a human deletes the line. The subject is a note for you; the gate
+# doesn't enforce it. Remove the line once the send is done.
+APPROVED-SEND to=buyer@example.gov subject="Quote 1042"
